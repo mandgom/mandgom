@@ -3,6 +3,7 @@
 ---
 ## Sobre mi🤔
 Actualmente sigo estudiando el segundo año de *DAW* y me gustara avanzar mucho mas que eso, seguir estudiando y aprendiendo, también lo hago por mi cuenta, ya que mi pasión siempre y por siempre sera la **ciberseguridad**, lo estudio y practico en mi unidad de almacenamiento portable con un doble cifrado de acceso a unidad y *S.O*.
+
 Con mucha ~~paciencia~~ he construido una mentalidad muy centrada a lo que quiero de verdad.
 >Mi pasión quiero que sea mi futuro.
 <!--
