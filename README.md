@@ -34,7 +34,7 @@ El desarrollo web es mi base, pero la seguridad ofensiva es mi vocacion.
 ## 🧰 Mi Caja de Herramientas
 La terminal es mi habitat natural. Ya dejamos atras los escaneos basicos, ahora prefiero investigar tecnicas de evasion, testear inyecciones avanzadas lanzando comandos como `sqlmap --level=5 --risk=3 --tamper=space2comment` como pequeño ejemplo o generando payloads especificos como este: `msfvenom -p linux/x64/meterpreter/reverse_tcp`.
 
-![Meta](https://cdn.iconscout.com/icon/free/png-512/free-metasploit-icon-svg-download-png-14549386.png?f=webp&w=256)
+![Metasploit](https://img.shields.io/badge/Metasploit-2C5199?style=for-the-badge&logo=metasploit&logoColor=white)
 ![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=BurpSuite&logoColor=white)
