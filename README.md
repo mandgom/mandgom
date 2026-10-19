@@ -38,6 +38,7 @@ La terminal es mi habitat natural. Ya dejamos atras los escaneos basicos, ahora 
 ![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=BurpSuite&logoColor=white)
+![Bash](https://img.shields.io/badge/BASH-000000?style=for-the-badge&logo=gnubash&logoColor=white)
 
 ## 💻 Un poco de código
 Me encanta automatizar la recolección de información (OSINT/Recon). Aqui dejo un *snippet* simple de un script en el que trabajo para extraer cabeceras HTTP de forma sigilosa:
